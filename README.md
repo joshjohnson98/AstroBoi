@@ -6,4 +6,4 @@
 
 :tada::tada: **People's Choice Award** :tada::tada:
 
-![start-screen](Build/Gameplay Images/AstroBoi1.png)
+![start-screen](Build/Gameplay\ Images/AstroBoi1.png)
