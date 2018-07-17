@@ -6,4 +6,5 @@
 
 :tada::tada: **People's Choice Award** :tada::tada:
 
-![start-screen](Build/Gameplay\ Images/AstroBoi1.png)
+![Start Screen Image]
+(https://github.com/zhabib3/AstroBoi/blob/master/Build/Gameplay%20Images/AstroBoi1.png)
