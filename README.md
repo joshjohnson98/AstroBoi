@@ -6,4 +6,4 @@
 
 :tada::tada: **People's Choice Award** :tada::tada:
 
-![start-screen](Build/Gameplay Images/AstroBoi1.png "Astro Boi Start Menu: You must escape the space debris hurtling towards you.")
+![start-screen](Build/Gameplay Images/AstroBoi1.png)
