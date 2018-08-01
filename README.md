@@ -34,7 +34,7 @@ The player starts out with limited fuel and oxygen in the beginning, and must co
 
 
 ### Game Design
-The team used Unity engine to design the game with scripts coded in C# for all gameplay components and UI, while the art was created on Adobe Photoshop. 
+The team used the Unity engine to design the game with scripts coded in C# for all gameplay components and UI, while the art was created on Adobe Photoshop. 
 
 
 ### Contributors
